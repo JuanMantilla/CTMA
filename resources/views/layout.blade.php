@@ -40,7 +40,7 @@
                     </a>
                 </li>
                 <li>
-                    <a href="RegistrarProfesor">Registrar profesore</a>
+                    <a href="RegistrarProfesor">Registrar profesor</a>
                 </li>
                 <li>
                     <a href="RegistrarCurso">Registrar curso</a>
